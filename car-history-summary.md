@@ -6,8 +6,9 @@ VIN: VH23G1R229266
 ## Quick Buyer Highlights
 
 - Real paper trail from multiple known shops and suppliers.
-- More than **$9,322.33** in high-confidence documented spend.
+- More than **$14,099.64** in high-confidence documented spend.
 - Major cosmetic restoration completed in 2007 (paint, interior, trim, glass).
+- A documented Mopar 360 / 390HP motor addition adds a clear performance investment.
 - Ongoing mechanical and drivability work (carb, cooling, ignition, tires, alignment, routine service).
 - Supporting performance-part documentation from respected brands (Holley, Edelbrock, MSD, COMP Cams, B&M, Auto Meter, Summit, Carter).
 
@@ -21,17 +22,17 @@ For a classic Mopar buyer, this matters: documented care lowers uncertainty and 
 
 ### High-Confidence Total
 
-- **$9,322.33** (priced receipts with clear vendor/date/amount)
+- **$14,099.64** (priced receipts with clear vendor/date/amount)
 
 ### If Including Low-Confidence Handwritten Amounts
 
-- **$9,388.91** (adds approximately $66.58 from one partially legible Al's Automotive invoice)
+- **$14,166.22** (adds approximately $66.58 from one partially legible Al's Automotive invoice)
 
 ### Spend by Category
 
 - **Body and paint**: $4,860.57
 - **Parts and restoration components**: $1,281.44
-- **Engine and mechanical**: $1,614.01
+- **Engine and mechanical**: $6,391.32
 - **Tires and routine maintenance**: $1,632.89
 
 ## Major Work Completed (Buyer-Friendly View)
@@ -45,6 +46,7 @@ For a classic Mopar buyer, this matters: documented care lowers uncertainty and 
 
 ### 2) Mechanical Service and Reliability Work
 
+- Mopar 360 / 390HP motor addition: **$4,777.31**
 - Carburetor service and diagnostic/compression work at Montoney's: **$480.00**
 - Cooling system service (water pump, fan clutch, thermostat, heater hose): **$266.24**
 - Starter replacement and oil service at Bremerton Dodge (net after goodwill credit): **$335.63**
@@ -61,6 +63,7 @@ For a classic Mopar buyer, this matters: documented care lowers uncertainty and 
 
 Records include documentation tied to performance-oriented components, including:
 
+- Mopar 360 / 390HP motor addition receipt
 - Edelbrock Performer RPM heads documentation (small-block Chrysler application)
 - Holley 4150 documentation and related carb service/parts receipts
 - MSD Pro-Billet Chrysler V8 distributor documentation
@@ -83,9 +86,9 @@ Buyer-safe interpretation: this is strong visual evidence of bolt-on performance
 
 ### Mod-Related Financial View
 
-- **Documented paid mod-related spend**: $958.04
+- **Documented paid mod-related spend**: $5,735.35
 - **Estimated current replacement value of provenance-supported components**: $4,320-$6,850
-- **Combined mod-investment signal**: $5,278-$7,808
+- **Combined mod-investment signal**: $10,055-$12,585
 
 Note: The replacement-value estimate is a market-based proxy because some supporting files are manuals/cards rather than priced install invoices.
 
