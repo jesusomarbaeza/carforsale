@@ -25,7 +25,7 @@
 - **Description**: 1971 Plymouth Scamp
 - **VIN**: VH23G1R229266
 - **License**: 110MNB WA
-- **Mileage**: 182,414
+- **Mileage**: Incorrect
 - **Color**: Orange
 - **OEM/ALT**: A (Aftermarket/Alternative parts)
 
