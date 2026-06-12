@@ -1,133 +1,78 @@
-# 1971 Plymouth Scamp Service & Build Summary
+# 1971 Plymouth Scamp Buyer Summary
 
 Prepared: June 11, 2026  
 VIN: VH23G1R229266
 
-## Quick Buyer Highlights
+## Buyer Snapshot
 
-- Real paper trail from multiple known shops and suppliers.
-- More than **$14,099.64** in high-confidence documented spend.
-- Major cosmetic restoration completed in 2007 (paint, interior, trim, glass).
-- A documented Mopar 360 / 390HP motor addition adds a clear performance investment.
-- Ongoing mechanical and drivability work (carb, cooling, ignition, tires, alignment, routine service).
-- Supporting performance-part documentation from respected brands (Holley, Edelbrock, MSD, COMP Cams, B&M, Auto Meter, Summit, Carter).
+This Scamp comes with a real paper trail, not just a stack of loose parts and memories. The records show a car that was actively maintained, cosmetically restored, and later pushed further with a Mopar 360 / 390HP motor addition. There is also handwritten shop paperwork that points to even more front-end, brake, and engine-build work, although some of it is too faint to total with full confidence.
 
-## Why This Car Stands Out
+At a glance, the records support at least **$14,099.64** in priced receipts, with the overall story pointing to a car that has had genuine money put into it over time.
 
-This Scamp was not treated like a forgotten project. Records show years of active ownership, real maintenance, and major restoration investment. Instead of one-off receipts, the file set shows a pattern of spending across body, interior, chrome, wheels/tires, and mechanical systems.
+## What The Records Show
 
-For a classic Mopar buyer, this matters: documented care lowers uncertainty and supports long-term value.
+The strongest documented spend is in the body and interior work. MAACO handled paint and collision repair, Scott Boys Hot Rods did interior and trim work, Allied Plating handled chrome, and Layson's supplied additional restoration parts. That gives the car a much more finished and intentional feel than a basic project car.
 
-## Documented Investment Snapshot
+The mechanical side is just as important. Records show carburetor work, cooling-system service, starter and battery-related work, tire and alignment visits, and a later Mopar 360 / 390HP motor addition for **$4,777.31**. The overall picture is a car that kept getting improved instead of left to sit.
 
-### High-Confidence Total
+## Financial Snapshot
 
-- **$14,099.64** (priced receipts with clear vendor/date/amount)
-
-### If Including Low-Confidence Handwritten Amounts
-
-- **$14,166.22** (adds approximately $66.58 from one partially legible Al's Automotive invoice)
-
-### Spend by Category
-
+- **High-confidence documented spend**: **$14,099.64**
+- **If including the one partially legible handwritten amount**: **$14,166.22**
 - **Body and paint**: $4,860.57
 - **Parts and restoration components**: $1,281.44
 - **Engine and mechanical**: $6,391.32
 - **Tires and routine maintenance**: $1,632.89
 
-## Major Work Completed (Buyer-Friendly View)
+The handwritten Al's Automotive pages suggest more than the numbers above, but the writing is not clean enough to force a precise total. That is why this summary stays conservative instead of pretending the math is cleaner than it is.
 
-### 1) Cosmetic Restoration (Strongest Value Signal)
+## Best-Effort Handwritten Notes
 
-- MAACO collision repair and paint in orange: **$2,094.57**
-- Scott Boys Hot Rods interior and trim work (headliner, sunvisors, vinyl top, windshield, package tray): **$1,526.00**
-- Allied Plating chrome work (front/rear bumpers and hardware): **$755.86**
-- Additional trim/restoration parts from Layson's (two orders): **$903.53**
+These are the clearest handwritten items from Al's Automotive, rewritten in plain English.
 
-### 2) Mechanical Service and Reliability Work
+- One front-end/brake page appears to list rotors, oil seals, brake hoses, calipers, pads, and grease, with a mix of part and labor entries.
+- Another page points to rebuilt front-end work, tires, rear-end work, A-arm parts, and shocks, but the total is too obscured to trust as a clean figure.
+- A performance-parts page appears to include a Hooker 5116-HK kit, MSD 6420 box, plug wires, spark plugs, flexplate, fuel pump, converter, exhaust, and shipping.
+- A handwritten warning page says there was no oil at the pump on the motor, no fluid in the trans, no tube in the rear end, and no brakes.
+- The Mopar 360 / 390HP motor addition is clearly noted at **$4,777.31**.
+- The notes also say the customer was warned that parts and prices could change and that some drivetrain linkage and pre-oiling work was still needed.
 
-- Mopar 360 / 390HP motor addition: **$4,777.31**
-- Carburetor service and diagnostic/compression work at Montoney's: **$480.00**
-- Cooling system service (water pump, fan clutch, thermostat, heater hose): **$266.24**
-- Starter replacement and oil service at Bremerton Dodge (net after goodwill credit): **$335.63**
-- NAPA carb and electrical/battery-related receipts: **$323.56**
-- Earlier tune-up and maintenance (battery, timing, carb adjust, brake check): **$142.00**
+## Why It Matters To A Buyer
 
-### 3) Wheels, Tires, and Road-Use Maintenance
+This is not just a cosmetic refresh. The paper trail suggests the car has been maintained, upgraded, and worked on across several systems, which helps reduce the usual unknowns on a classic Mopar. The engine-bay photos and parts documentation also back up the idea that the car has had real performance-oriented attention, not just superficial cleanup.
 
-- Les Schwab receipts (wheels/tires/alignment across multiple visits): **$1,493.04**
-- Firestone tire replacement: **$89.86**
-- Jiffy Lube oil change service: **$49.99**
+## Performance Documentation
 
-## Performance and Build Documentation
+Supporting files include documentation for:
 
-Records include documentation tied to performance-oriented components, including:
-
-- Mopar 360 / 390HP motor addition receipt
-- Edelbrock Performer RPM heads documentation (small-block Chrysler application)
-- Holley 4150 documentation and related carb service/parts receipts
-- MSD Pro-Billet Chrysler V8 distributor documentation
-- COMP Cams installation/break-in documentation
+- Mopar 360 / 390HP motor addition
+- Edelbrock Performer RPM heads
+- Holley 4150 carburetor and related parts
+- MSD Pro-Billet Chrysler V8 distributor
+- COMP Cams break-in and installation materials
 - B&M drivetrain-related documentation
-- Auto Meter gauges/tach and Edelbrock air-fuel monitor documentation
+- Auto Meter gauges and Edelbrock air-fuel monitor
 - Summit brake lock documentation
 - Carter M6902 fuel-system packaging card
 
-### Engine Bay Photo Evidence
+The engine-bay photo set also shows an Edelbrock air cleaner, Edelbrock valve covers, and an MSD ignition box, which fits the rest of the build documentation. Those photos support the performance story, but they do not by themselves prove the internal engine specs.
 
-A current engine-bay photo in this file set visually supports the performance-upgrade narrative. Visible items include:
-
-- Edelbrock open-element air cleaner
-- Edelbrock-branded valve covers
-- MSD ignition box on the driver-side inner fender
-- Aftermarket ignition-wire layout and non-stock under-hood configuration
-
-Buyer-safe interpretation: this is strong visual evidence of bolt-on performance upgrades. By itself, the photo does not prove internal engine specifications (camshaft profile, compression ratio, piston type, crank details, or confirmed displacement). Combined with the bobweight balance sheet and supporting documentation, it strengthens the case for a performance-oriented build.
-
-### Mod-Related Financial View
-
-- **Documented paid mod-related spend**: $5,735.35
-- **Estimated current replacement value of provenance-supported components**: $4,320-$6,850
-- **Combined mod-investment signal**: $10,055-$12,585
-
-Note: The replacement-value estimate is a market-based proxy because some supporting files are manuals/cards rather than priced install invoices.
-
-## Simplified Timeline of Key Records
+## Timeline At A Glance
 
 | Year | Highlights |
 |------|------------|
 | 2001-2004 | Early tune-up and maintenance, Dodge service work, Firestone tires |
-| 2006 | Carb diagnostics/rebuild work, cooling prep, wheel/tire-related spend begins |
+| 2006 | Carb diagnostics/rebuild work, cooling prep, wheel and tire-related spend begins |
 | 2007 | Major restoration year: paint, interior, trim/weatherstrip, alignment |
 | 2008 | Carb and electrical/battery follow-up, chrome plating completed |
-| 2010 | Additional tire spend, carb renew parts, routine oil service |
+| 2010 | Additional tire spend, carb renewal parts, routine oil service |
 
-## Known Unknowns (Honest Disclosure)
+## Still Worth Inspecting
 
-The available extracted records do **not** conclusively document:
+The records do not conclusively document the exact transmission, rear axle size, gear ratio, Sure Grip status, or brake configuration. That does not weaken the file set, but it does mean a buyer should still verify those items in person.
 
-- Exact transmission model currently installed
-- Rear axle size
-- Rear gear ratio
-- Confirmed Sure Grip/LSD status
-- Exact disc/drum brake configuration
+## Confidence In The Paper Trail
 
-This section is intentionally included so buyers can see both what is documented and what still requires physical verification.
+Most of the value here comes from clear, typed invoices from shops like Allied Plating, Bremerton Dodge, Firestone, Jiffy Lube, JEGS, Jones & Sons, Layson's, Les Schwab, MAACO, Montoney's, NAPA/Westbay, PEMCO, and Scott Boys Hot Rods.
 
-## Record Quality and Confidence
-
-### High Confidence
-
-Clear, typed invoices from shops such as Allied Plating, Bremerton Dodge, Firestone, Jiffy Lube, JEGS, Jones & Sons, Layson's, Les Schwab, MAACO, Montoney's, NAPA/Westbay, PEMCO, and Scott Boys Hot Rods.
-
-### Lower Confidence
-
-- Al's Automotive pages are mostly handwritten and difficult to read; one invoice contains partial amount visibility.
-- Town & Country page is largely illegible.
-- Bobweight worksheet is handwritten and not transaction-grade.
-
-### No Transaction Values Found
-
-- West Bay Auto Parts pages are blank invoice forms.
-- Title file is registration related, not service spend.
-- Several supporting documents are manuals/instructions without pricing.
+The lower-confidence material is mostly the handwritten Al's Automotive paperwork and a few blank or non-transaction documents. Those are still useful for the story they tell, but I have kept them separate from the clean total so the summary stays buyer-safe.
